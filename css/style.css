@@ -1,0 +1,46 @@
+.hero{
+    background-image: url(../images/background.jpg);
+}
+.hero h1{
+    color: #C4E4FF;
+    text-align: center;
+    font-size: 7rem;
+}
+.hero h3{
+    color: #C4E4FF;
+    text-align: center;
+    font-size: 1rem;
+    margin: 0;
+}
+.me{
+    border-radius: 50%;
+    border: 5px solid #C4E4FF;
+}
+h2{
+    color: #D20062;
+    text-align: center;
+}
+.about{
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2rem 0;  /* Added padding to give some space */
+}
+p{
+    text-align: center;
+    color: #D895DA;
+}
+.image3{
+    width: 350px; /* Set the desired width */
+    height: 350px; /* Set the desired height */
+    object-fit: fit ;
+    border: 5px solid #C4E4FF;
+}
+.footer{
+    background-image: url(../images/background.jpg);
+}
+li{
+    color: #C4E4FF;
+    font-size: 20px;
+}
